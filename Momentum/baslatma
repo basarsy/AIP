@@ -1,0 +1,5 @@
+SERVER STARTUP
+java --module-path "C:\Users\basar\Documents\UPT\AI\Momentum\javafx-sdk-23.0.1\lib" --add-modules=javafx.controls -jar .\MomentumServer.jar
+
+MANUAL RESPONSE STARTUP
+java -jar ManualResponse.jar 
